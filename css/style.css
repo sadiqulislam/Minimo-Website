@@ -1,0 +1,149 @@
+body{
+}
+
+.container{
+	width: 1000px;
+	margin:  0 auto;
+	/* background:  wheat; */
+	overflow:  hidden;
+}
+
+header{
+	
+width: 100%;
+	
+padding: 15px 0px;
+}
+
+
+.logo{
+	
+width: 20%;
+	
+float: left;
+}
+.logo img{
+
+}
+
+.logo a{
+
+}
+
+nav{
+
+width: 80%;
+
+float: left;
+}
+
+nav ul{
+    margin:  0;
+    padding:  0;
+    text-align:  right;
+}
+
+
+nav ul li{
+    list-style:  none;
+    display:  inline-block;
+}
+
+nav ul li a{text-decoration:  none;color: #b79f9f;text-transform:  uppercase;font-size:  14px;padding-left:  40px;}
+
+nav ul li a :hover{
+
+}
+
+.banner{
+    width:  100%;
+    float:  left;
+}
+
+.banner img{
+
+max-width: 100%;
+}
+
+.main-content{
+
+padding:  40px 50px;
+
+box-sizing:  border-box;
+
+/* background: red; */
+
+float:  left;
+}
+
+.main-content span{
+
+color: #7d868e;
+}
+
+.main-content h1{
+
+margin:  0;
+
+color: #907d7d;
+}
+
+.main-content p{
+
+color: #907d7d;
+}
+
+.main-content a{color:  green;text-decoration: none;text-transform:  uppercase;padding-top:  30px;}
+
+.blog{
+
+width:  50%;
+
+float: left;
+
+padding: 30px 50px;
+
+box-sizing:  border-box;
+}
+
+.blog img{
+    max-width: 100%;
+}
+
+.blog span{
+
+color:  grey;
+}
+
+.blog h2{
+
+color: #bdafaf;
+
+margin:  0;
+}
+
+.blog p{
+
+color: #bdafaf;
+}
+
+footer{width: 100%;background: #e6dbdb;}
+
+.copyright{
+
+}
+
+.copyright p{
+
+text-align:  center;
+
+text-transform:  uppercase;
+
+color: #080808;
+}
+.copyright a{
+
+text-decoration: none;
+
+color: #3e3737;
+}
